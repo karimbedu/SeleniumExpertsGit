@@ -1,0 +1,12 @@
+2023-02-02 11:13:12,400 [main] INFO Google Search - Chrome Browser launch
+2023-02-02 11:13:12,541 [main] INFO Google Search - Browser window maximize
+2023-02-02 11:18:35,544 [main] INFO Google Search - Chrome Browser launch
+2023-02-02 11:18:35,676 [main] INFO Google Search - Browser window maximize
+2023-02-02 11:18:39,413 [main] INFO Google Search - Google URL is entered in browser
+2023-02-02 11:18:39,653 [main] INFO Google Search - Tirupati text enter in google search
+2023-02-02 11:20:57,454 [main] INFO Google Search - Chrome Browser launch
+2023-02-02 11:20:57,603 [main] INFO Google Search - Browser window maximize
+2023-02-02 11:21:02,168 [main] INFO Google Search - Google URL is entered in browser
+2023-02-02 11:21:04,178 [main] INFO Google Search - Wait for 2 Seconds
+2023-02-02 11:21:04,279 [main] INFO Google Search - Tirupati text enter in google search
+2023-02-02 11:21:08,164 [main] INFO Google Search - Enter button pressed in keyboard
