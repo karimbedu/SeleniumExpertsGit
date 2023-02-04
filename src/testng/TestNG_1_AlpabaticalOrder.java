@@ -43,7 +43,7 @@ public class TestNG_1_AlpabaticalOrder {
 
 	@AfterTest
 	public void afterTest() {
-		driver.quit();
+		driver.close();
 	}
 
 }
